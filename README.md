@@ -2,7 +2,7 @@
 - 👀 I’m interested in  COMPUTERS/NETWORKS
 - 🌱 I’m currently learning C++ etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @pervysage on Telegram
+- 📫
 
 <!---
 REDHAIRLINUX/REDHAIRLINUX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
