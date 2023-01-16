@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @REDHAIRLINUX
+- 👋 Hi, I’m ------
 - 👀 I’m interested in  COMPUTERS/NETWORKS/LINUX
 - 🌱 I’m currently learning C++ etc
 - 💞️ I’m looking to collaborate on ...
